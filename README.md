@@ -31,6 +31,6 @@ Set-ExecutionPolicy Unrestricted
 ```
 
 ## License
-The contents are freely available under the [MIT license](http://opensource.org/licenses/GPL-2.0).
+The contents are freely available under the [MIT license](http://opensource.org/licenses/MIT).
 
 The licenses of third-party libraries can be found [here](https://github.com/project-toybox/toybox-manager/blob/main/docs/THIRD_PARTY_NOTICES.md).
