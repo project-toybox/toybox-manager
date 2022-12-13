@@ -103,6 +103,8 @@ function Invoke-Restore {
 }
 
 function Invoke-Publish {
+	# NOTE: If you use PublishReadyToRun with '--no-restore' property, the operation might fail.
+	# https://learn.microsoft.com/en-us/dotnet/core/compatibility/sdk/6.0/publish-readytorun-requires-restore-change
 	if ($excludeSymbols -eq $true) {
         dotnet publish $Script:TargetPath -p:PublishProfileFullPath=$Script:ProfilePath -p:Configuration=Release -p:DebugType=None -p:DebugSymbols=false -p:Product=$productName -p:Version=$productVersion -p:AssemblyTitle=$fileDesc -p:AssemblyVersion=$fileVersion -p:Company=$company -p:Copyright=$copyright $properties --verbosity $verbosity --nologo
     } else {
