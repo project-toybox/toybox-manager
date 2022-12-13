@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyboxManager", "ToyboxManager\ToyboxManager.csproj", "{E6DD3B55-DB0D-40C7-A03D-9F608F06E58B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyboxManager.Tests", "ToyboxManager.Tests\ToyboxManager.Tests.csproj", "{CA78685B-DDDD-4932-9665-F7A0609DC645}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyboxManager.UITests", "ToyboxManager.UITests\ToyboxManager.UITests.csproj", "{15079F6C-6B93-417F-82BE-55521D0F9866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6DD3B55-DB0D-40C7-A03D-9F608F06E58B}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{E6DD3B55-DB0D-40C7-A03D-9F608F06E58B}.Debug|ARM64.Build.0 = Debug|ARM64
+		{E6DD3B55-DB0D-40C7-A03D-9F608F06E58B}.Debug|x64.ActiveCfg = Debug|x64
+		{E6DD3B55-DB0D-40C7-A03D-9F608F06E58B}.Debug|x64.Build.0 = Debug|x64
+		{E6DD3B55-DB0D-40C7-A03D-9F608F06E58B}.Release|ARM64.ActiveCfg = Release|ARM64
+		{E6DD3B55-DB0D-40C7-A03D-9F608F06E58B}.Release|ARM64.Build.0 = Release|ARM64
+		{E6DD3B55-DB0D-40C7-A03D-9F608F06E58B}.Release|x64.ActiveCfg = Release|x64
+		{E6DD3B55-DB0D-40C7-A03D-9F608F06E58B}.Release|x64.Build.0 = Release|x64
+		{CA78685B-DDDD-4932-9665-F7A0609DC645}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{CA78685B-DDDD-4932-9665-F7A0609DC645}.Debug|ARM64.Build.0 = Debug|ARM64
+		{CA78685B-DDDD-4932-9665-F7A0609DC645}.Debug|x64.ActiveCfg = Debug|x64
+		{CA78685B-DDDD-4932-9665-F7A0609DC645}.Debug|x64.Build.0 = Debug|x64
+		{CA78685B-DDDD-4932-9665-F7A0609DC645}.Release|ARM64.ActiveCfg = Release|ARM64
+		{CA78685B-DDDD-4932-9665-F7A0609DC645}.Release|ARM64.Build.0 = Release|ARM64
+		{CA78685B-DDDD-4932-9665-F7A0609DC645}.Release|x64.ActiveCfg = Release|x64
+		{CA78685B-DDDD-4932-9665-F7A0609DC645}.Release|x64.Build.0 = Release|x64
+		{15079F6C-6B93-417F-82BE-55521D0F9866}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{15079F6C-6B93-417F-82BE-55521D0F9866}.Debug|ARM64.Build.0 = Debug|ARM64
+		{15079F6C-6B93-417F-82BE-55521D0F9866}.Debug|x64.ActiveCfg = Debug|x64
+		{15079F6C-6B93-417F-82BE-55521D0F9866}.Debug|x64.Build.0 = Debug|x64
+		{15079F6C-6B93-417F-82BE-55521D0F9866}.Release|ARM64.ActiveCfg = Release|ARM64
+		{15079F6C-6B93-417F-82BE-55521D0F9866}.Release|ARM64.Build.0 = Release|ARM64
+		{15079F6C-6B93-417F-82BE-55521D0F9866}.Release|x64.ActiveCfg = Release|x64
+		{15079F6C-6B93-417F-82BE-55521D0F9866}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8693C516-B4B1-4670-AAF6-72B0C1CB9867}
+	EndGlobalSection
+EndGlobal
