@@ -19,7 +19,7 @@
  * __OS__ : Windows 10 or higher version(include server edtions)
  * __Tools__
    * [PowerShell 7](https://github.com/PowerShell/PowerShell)
-   * [Visual Studio 2022](https://visualstudio.microsoft.com/)(include 'Desktop development with C++' and '.NET desktop development' workload)
+   * [Visual Studio 2022](https://visualstudio.microsoft.com/)(include '.NET desktop development' workload)
    * [.NET 7 SDK](https://dotnet.microsoft.com/en-us/download)
 
 ### Guide
