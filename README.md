@@ -5,7 +5,7 @@
     </h1>
     <p align="center"><b>A high-performance game compressor<br>Let's clean up your toys!</b></p>
     <p align="center">
-        <a target="_blank" href="https://github.com/project-toybox/toybox-manager/actions"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/project-toybox/toybox-manager/Release"></a>
+        <a target="_blank" href="https://github.com/project-toybox/toybox-manager/actions"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/project-toybox/toybox-manager/release.yml?branch=main"></a>
         <a target="_blank" href="https://github.com/project-toybox/toybox-manager/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/project-toybox/toybox-manager"></a>
         <a target="_blank" href="https://github.com/project-toybox/toybox-manager/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/project-toybox/toybox-manager"></a>
     </p>
